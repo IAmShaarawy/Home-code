@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_rooms"
+        android:icon="@android:drawable/sym_call_missed"
+        android:title="Rooms" />
+    <item
+        android:id="@+id/nav_outdoors"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="Outdoors" />
+    <item
+        android:id="@+id/nav_systems"
+        android:icon="@drawable/ic_menu_systems"
+        android:title="Systems" />
+    <item
+        android:id="@+id/nav_routines"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="Routines" />
+
+</menu>
